@@ -14,7 +14,7 @@
 const EPISODES = [
   {
     number: 1,
-    question: "TODO — the question this episode answers",
+    question: "What makes the optimal mentee?",
     mentor: "David M. Yousem, MD, MBA",
     mentorRole: "Professor of Radiology; Vice Chair of Academic Affairs, Johns Hopkins University",
     date: "2026-09",
@@ -22,10 +22,10 @@ const EPISODES = [
     video: "videos/episode 01.mp4",
     poster: "posters/episode01.jpg",
     takeaways: [
-      "TODO — first takeaway",
-      "TODO — second takeaway",
-      "TODO — third takeaway"
+      "Be proactive about your career",
+      "Be organized before, during and after your mentorship session",
+      "Have an attitude of gratitude"
     ],
-    action: "TODO — the one thing a viewer can do tomorrow"
+    action: "Think out your plan for success"
   }
 ];
