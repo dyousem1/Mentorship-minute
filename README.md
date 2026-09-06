@@ -3,7 +3,7 @@
 Short mentorship conversations for radiology trainees and early-career faculty.
 One mentor. One question. Three takeaways. One action.
 
-Live site: https://dyousem1.github.io/mentorship-minute/
+Live site: https://dyousem1.github.io/Mentorship-minute/
 
 ## Files
 
