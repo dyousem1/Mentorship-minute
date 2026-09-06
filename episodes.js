@@ -16,7 +16,7 @@ const EPISODES = [
     number: 1,
     question: "What makes the optimal mentee?",
     mentor: "David M. Yousem, MD, MBA",
-    mentorRole: "Professor of Radiology; Johns Hopkins University School of Medicine",
+    mentorRole: "Professor of Radiology; Johns Hopkins University School of Medicine, former Associate Dean of Faculty Development",
     date: "2026-09",
     duration: "12:39",
     video: "videos/episode 01.mp4",
